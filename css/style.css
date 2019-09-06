@@ -70,7 +70,7 @@ ul{
 	padding:0;
 	z-index:1;
 	background-color: #ffffff70;
-	width: 100%;
+	width: 2000px;
 	
 }
 
@@ -100,7 +100,7 @@ img {vertical-align: middle;}
 
 /* Slideshow container */
 .slideshow {
-  max-width: 1500px;
+  max-width: 2000px;
   position: relative;
   margin:0;
 }
@@ -192,7 +192,9 @@ img {vertical-align: middle;}
 }
 
 .tripic img {
-	min-width: 30%;
+	width: 30%;
+	padding-right: 10px;
+	
 }
 
 .biginner{
